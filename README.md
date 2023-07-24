@@ -23,3 +23,12 @@ Fill in a brief description of your project here...
 ## Documentation
 
 Use the [`./docs`](./docs/readme.md) folder to store project documentation using [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github).
+
+## Helpful Links
+
+Getting started with coding and using Github.
+
+| Name | Link |
+| ---- | ---- |
+| Github getting started | [Github.com](https://docs.github.com/en/get-started/using-git) |
+| Markdown cheatsheet | [Markdownguide.org](https://www.markdownguide.org/cheat-sheet) |
