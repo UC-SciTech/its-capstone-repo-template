@@ -3,6 +3,7 @@
 # UC ITS Capstone Project Template
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Template Repo](https://img.shields.io/badge/Template-%20Repo-blue)](https://github.com/new?template_name=its-capstone-repo-template&template_owner=UC-SciTech)
 
 Template repo for UC ITS capstone projects source code.
 
