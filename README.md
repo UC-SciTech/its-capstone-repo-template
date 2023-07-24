@@ -13,5 +13,13 @@ Template repo for UC ITS capstone projects source code.
 1. Update the `cs-project.yaml` with your project information
 1. Update the `AUTHORS` file with your team members
 1. Update the `README.md` file with your project information
+1. Update the `docs/readme.md` file with your project documentation
+1. Remove these instructions from the `README.md` file
 
 ## Project Information
+
+Fill in a brief description of your project here...
+
+## Documentation
+
+Use the [`./docs`](./docs/readme.md) folder to store project documentation using [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github).
