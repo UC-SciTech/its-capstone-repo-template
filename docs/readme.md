@@ -2,6 +2,8 @@
 
 You can store relevant project documentation here using [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github). An example of some documentation is provided below.
 
+Getting started with coding and using Github - [getting started](./getting-started-with-source-control.md).
+
 ## Table of Contents
 
 - [Documentation](#documentation)
