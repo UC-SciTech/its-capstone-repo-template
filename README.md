@@ -4,6 +4,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Template Repo](https://img.shields.io/badge/Template-%20Repo-blue)](https://github.com/new?template_name=its-capstone-repo-template&template_owner=UC-SciTech)
+[![vscode.dev](https://img.shields.io/badge/vscode-dev-blue)](https://vscode.dev)
 
 Template repository for UC ITS capstone projects source code. For more information see the [getting started](./docs/getting-started-with-source-control.md).
 
